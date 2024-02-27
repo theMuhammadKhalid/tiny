@@ -1,2 +1,2 @@
 # tiny
-The tiniest npm module
+![NPM Version](https://img.shields.io/npm/v/%40muhammadkhalid%2Ftiny)
